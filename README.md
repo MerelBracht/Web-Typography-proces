@@ -1,3 +1,4 @@
+# Merel Bracht - 500739163 
 # Web-Typography-proces
 In dit document vertel ik over mijn proces voor het vak Web Typography en ligt ik mijn ontwerpkeuzes toe. 
 
